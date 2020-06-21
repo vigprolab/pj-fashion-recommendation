@@ -6,6 +6,8 @@
 - Kohei Yamaguchi
     - training function
 - Yushi Goto
+    - main function
     - dataset module
     - transform functions
-
+    - test function
+    - other functions
